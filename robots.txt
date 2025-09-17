@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nesrocks.github.io/sitemap.xml
